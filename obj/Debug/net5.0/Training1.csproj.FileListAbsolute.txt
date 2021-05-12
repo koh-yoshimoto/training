@@ -1,0 +1,16 @@
+C:\Users\010382\source\Training1\bin\Debug\net5.0\Training1.exe
+C:\Users\010382\source\Training1\bin\Debug\net5.0\Training1.deps.json
+C:\Users\010382\source\Training1\bin\Debug\net5.0\Training1.runtimeconfig.json
+C:\Users\010382\source\Training1\bin\Debug\net5.0\Training1.runtimeconfig.dev.json
+C:\Users\010382\source\Training1\bin\Debug\net5.0\Training1.dll
+C:\Users\010382\source\Training1\bin\Debug\net5.0\ref\Training1.dll
+C:\Users\010382\source\Training1\bin\Debug\net5.0\Training1.pdb
+C:\Users\010382\source\Training1\obj\Debug\net5.0\Training1.csprojAssemblyReference.cache
+C:\Users\010382\source\Training1\obj\Debug\net5.0\Training1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\010382\source\Training1\obj\Debug\net5.0\Training1.AssemblyInfoInputs.cache
+C:\Users\010382\source\Training1\obj\Debug\net5.0\Training1.AssemblyInfo.cs
+C:\Users\010382\source\Training1\obj\Debug\net5.0\Training1.csproj.CoreCompileInputs.cache
+C:\Users\010382\source\Training1\obj\Debug\net5.0\Training1.dll
+C:\Users\010382\source\Training1\obj\Debug\net5.0\ref\Training1.dll
+C:\Users\010382\source\Training1\obj\Debug\net5.0\Training1.pdb
+C:\Users\010382\source\Training1\obj\Debug\net5.0\Training1.genruntimeconfig.cache
